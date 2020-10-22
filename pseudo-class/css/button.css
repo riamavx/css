@@ -1,0 +1,13 @@
+.btn{
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    max-width: 11rem;
+    height: 3rem;
+    background-color: #f6830f;
+    cursor: pointer;
+    border: none;
+}
+
+ button:active{
+    transform: scale(0.95);
+}
